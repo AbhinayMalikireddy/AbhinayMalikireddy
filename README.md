@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hey, I'm Abhinay
+Data Analyst in the making, focused on Python, SQL, Excel and Power BI to turn data into actionable insights. Let’s connect!
+- Check out my work at
+- Reach me at
 
-<!--
-**AbhinayMalikireddy/AbhinayMalikireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Excel
+- MySQL
+- Python
+- PowerBI
+- EDA
+- Data Modeling
+- Data Cleaning
+- Statistics
+- Reporting
