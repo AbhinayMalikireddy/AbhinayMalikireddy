@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Abhinay
-Data Analyst skilled in Python, SQL, Excel, and Power BI, with a strong focus on data cleaning, exploration, and visualization. I turn complex datasets into meaningful insights that support business decisions. Passionate about continuous learning and solving real-world problems through data.
+Data Science focused on Python, SQL, Excel, and Power BI. I specialize in cleaning, exploring, and visualizing data to uncover patterns and deliver actionable insights. I enjoy breaking down complex problems using well-structured approaches and validating results with real data. Passionate about continuous learning, understanding customer behavior, and using data to drive better products and decisions.
 - Reach me at abhinaymalikireddy@gmail.com
 
 ## Skills
